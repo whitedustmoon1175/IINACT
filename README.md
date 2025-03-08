@@ -13,7 +13,7 @@
 
 ## 原因
 
-- 在原作者看来，ACT 太不方便了，因为只是想通过 WebSocket 服务器解析和提供游戏数据
+- 在原作者看来，对于仅想通过 WebSocket 服务器解析和提供游戏数据的需求来说，ACT 太不方便了
 - 比 ACT 效率高得多，部分原因是 .NET 7.0，部分是更合理的日志行处理（磁盘 I/O 不会阻止 LogLineEvents，而是发生在单独的较低优先级线程上）
 - 由于上述原因，并且完全在游戏进程内运行，与基于网络的捕获相比，在 Wine 下运行时，CPU 使用率将降低几个数量级（这里没有夸大）
 - 使用基于 [NetCoreServer](https://github.com/chronoxor/NetCoreServer)的超快速低延迟 WebSocket 服务器
