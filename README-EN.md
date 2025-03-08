@@ -31,7 +31,7 @@ Install instructions can be found [here](https://www.iinact.com/installation/), 
 
 Just run 
 ```
-git clone --recurse-submodules https://github.com/marzent/IINACT.git
+git clone --recurse-submodules https://github.com/whitedustmoon1175/IINACT.git
 cd IINACT
 dotnet build
 ``` 

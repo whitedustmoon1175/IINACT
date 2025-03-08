@@ -32,7 +32,7 @@
 只需在装有[.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 的Linux, macOS 或 Windows 计算机上运行。
 ```
-git clone --recurse-submodules https://github.com/marzent/IINACT.git
+git clone --recurse-submodules https://github.com/whitedustmoon1175/IINACT.git
 cd IINACT
 dotnet build
 ``` 
