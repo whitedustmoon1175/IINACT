@@ -1,6 +1,6 @@
 ![icon](https://github.com/marzent/IINACT/blob/main/images/icon.ico?raw=true)
 
-[English](https://github.com/whitedustmoon1175/IINACT/blob/master/README.md)
+[English](https://github.com/whitedustmoon1175/IINACT/blob/master/README-EN.md)
 
 # IINACT
 
