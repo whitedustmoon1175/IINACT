@@ -1,5 +1,7 @@
 ![icon](https://github.com/marzent/IINACT/blob/main/images/icon.ico?raw=true)
 
+[中文版](https://github.com/whitedustmoon1175/IINACT/blob/master/README-CN.md)
+
 # IINACT
 
 A [Dalamud](https://github.com/goatcorp/Dalamud) plugin to run the [FFXIV_ACT_Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin) in an [ACT](https://advancedcombattracker.com/)-like enviroment with a heavily modified port of [Overlay Plugin](https://github.com/OverlayPlugin/OverlayPlugin) for modern .NET.
