@@ -8,7 +8,7 @@
 
 此处的数据源仅基于 `Dalamud.Game.Network` 不需要任何使用 [Deucalion](https://github.com/ff14wed/deucalion) 的额外注入或使用提升权限的网络捕获。
 
-本插件 **不会** 自己渲染覆盖层，请使用[Browsingway](https://github.com/Styr1x/Browsingway), [Next UI](https://github.com/kaminaris/Next-UI), [hudkit](https://github.com/valarnin/hudkit) (仅限Linux) or [Bunny HUD](https://github.com/marzent/Bunny-HUD) (仅限macOS) 等插件来显示覆盖层。
+本插件 **不会** 自己渲染覆盖层，请使用[Browsingway](https://github.com/Styr1x/Browsingway), [Next UI](https://github.com/kaminaris/Next-UI), [hudkit](https://github.com/valarnin/hudkit) (仅限Linux) 或者 [Bunny HUD](https://github.com/marzent/Bunny-HUD) (仅限macOS) 等插件来显示覆盖层。
 
 
 ## 原因
