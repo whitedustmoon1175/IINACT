@@ -35,7 +35,7 @@ git clone --recurse-submodules https://github.com/whitedustmoon1175/IINACT.git
 cd IINACT
 dotnet build
 ``` 
-on a Linux, macOS or Windows machine with the [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0). 
+on a Linux, macOS or Windows machine with the [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0). 
 
 You will need to be able to reference Dalamud as well, meaning having an install of [XL](https://github.com/goatcorp/FFXIVQuickLauncher) or [XOM](https://github.com/marzent/XIV-on-Mac) on Windows and macOS respectively. On Linux `DALAMUD_HOME` needs to be correctly set (for example `$HOME/.xlcore/dalamud/Hooks/dev`).
 

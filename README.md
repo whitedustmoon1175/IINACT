@@ -29,7 +29,7 @@
 
 ## 如何搭建
 
-只需在装有[.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+只需在装有[.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 的Linux, macOS 或 Windows 计算机上运行。
 ```
 git clone --recurse-submodules https://github.com/whitedustmoon1175/IINACT.git
