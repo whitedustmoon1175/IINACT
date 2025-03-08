@@ -1,7 +1,7 @@
 {
     "Author": "Usagi,whitedustmoon(适配CN)",
     "Name": "IINACT",
-    "Punchline": "A parsing plugin.s",
+    "Punchline": "A parsing plugin.",
     "RepoUrl": "https://github.com/whitedustmoon1175/IINACT",
     "Description": "一个用于在类ACT环境下运行 FFXIV_ACT_Plugin的Dalamud 插件，并使用针对现代 .NET 的Overlay Plugin 端口进行大量修改。",
     "InternalName": "IINACT-CN",
